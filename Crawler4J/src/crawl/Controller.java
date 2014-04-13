@@ -51,8 +51,8 @@ public class Controller {
              * URLs that are fetched and then the crawler starts following links
              * which are found in these pages
              */
-            domains.add("uiowa.edu");
-            controller.addSeed("http://www.uiowa.edu/");
+            domains.add("jones");
+            controller.addSeed("http://homepage.cs.uiowa.edu/~jones/");
 //            controller.addSeed("http://www.ics.uci.edu/~lopes/");
 //            controller.addSeed("http://www.ics.uci.edu/");
 
